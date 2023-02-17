@@ -1,0 +1,3 @@
+# exos_python
+Here are some amazing exercices with python 
+To be continued ... 
